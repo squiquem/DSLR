@@ -7,11 +7,11 @@ How to train a logistic regression that will solve classification problem.
 
 ## Run
 
-To describe
+To describe:
 
 	python3 describe.py [-h] file
 
-To visualize
+To visualize:
 
 	python3 histogram.py [-h] [-lf] [-o OUTPUT] file
 	python3 scatter_plot.py [-h] [-lf] [-o OUTPUT] file
@@ -25,6 +25,7 @@ To predict:
 
 	python3 logreg_predict.py [-h] test weights
 
+Arguments:
 
 	positional arguments:
 	file                file described
